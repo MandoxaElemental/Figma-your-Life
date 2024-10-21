@@ -14,11 +14,16 @@
     display: flex;
     justify-content: space-evenly;
 }
-.box-info{
+.box-image{
     display: flex;
     justify-content: space-around;
     padding-top: 5%;
+}
+.box-info{
+    display: flex;
+    justify-content: space-around;
     text-align: center;
+    padding: 10px;
 }
 
 .imgborder{
