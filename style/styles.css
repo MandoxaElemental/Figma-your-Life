@@ -4,6 +4,18 @@
         background-attachment: fixed;
         background-size: 100% 100%;
 }
+#interests-menu{
+    background-image: url(/assets/interests.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+#accomplishments-menu{
+    background-image: url(/assets/accomplishments.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 #main-box{
     background-color: rgba(255, 255, 255, 0.683);
     margin-top: 10px;
