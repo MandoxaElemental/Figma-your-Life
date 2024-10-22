@@ -24,5 +24,5 @@
 [Figma your Life Repository](https://github.com/MandoxaElemental/Figma-your-Life.git)
 
 
-This has been Peer Reviewed By: 
-> Comments: 
+This has been Peer Reviewed By: Charles Orr
+> Comments: I really like the formatting and design of the project its very pleasing to look at and easy to read, amazing work, only recommendation I can give is adding "height: max-content" to things like the accordions that way they dont move the entire container, aside from that 10/10
