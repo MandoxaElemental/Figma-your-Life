@@ -19,6 +19,14 @@
     justify-content: space-around;
     padding-top: 5%;
 }
+.box-spacing{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10%;
+}
+.interest{
+    text-align: center;
+}
 .box-info{
     display: flex;
     justify-content: space-around;
@@ -41,4 +49,7 @@ a{
 a:hover{
     font-size: 23px;
     font-style: bold;
+}
+.accordion-body{
+    text-align: center;
 }
