@@ -79,3 +79,6 @@ a:hover{
     left: 0;
     bottom: 0;
 }
+li{
+    text-align: left;
+}
