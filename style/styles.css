@@ -28,7 +28,7 @@ body{
 #main-box{
     background-color: rgba(255, 255, 255, 0.683);
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 50px;
     border-radius: 10px;
 }
 .navbar-box{
@@ -73,4 +73,9 @@ a:hover{
 }
 .accordion-body{
     text-align: center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
