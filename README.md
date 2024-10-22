@@ -15,6 +15,8 @@
 - Figma and GH Repo links in comments
 - Figma has to be approved before you can start with your coding 
 
+> Notes: Things not in the figma were probably added as an afterthought.
+
 ### _Figma Link:_
 [Figma your Life](https://www.figma.com/design/sQLxTgB5UV4SlcdZ751R9N/Figma-your-Life?node-id=1-112&t=LlypsOgfuuwzUwjj-1)
 
