@@ -16,7 +16,7 @@
 - Figma has to be approved before you can start with your coding 
 
 ### _Figma Link:_
-[Figmy your Life](https://www.figma.com/design/sQLxTgB5UV4SlcdZ751R9N/Figma-your-Life?node-id=1-112&t=LlypsOgfuuwzUwjj-1)
+[Figma your Life](https://www.figma.com/design/sQLxTgB5UV4SlcdZ751R9N/Figma-your-Life?node-id=1-112&t=LlypsOgfuuwzUwjj-1)
 
 ### _GitHub Repository Link:_
 [Figma your Life Repository](https://github.com/MandoxaElemental/Figma-your-Life.git)
