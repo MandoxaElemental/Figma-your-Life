@@ -2,7 +2,7 @@
 
 # Gianpaolo Reinares
 # 10/22/2024
-# "Challenge #1 - Group CYOA with Styles"
+# "Project - Figma your Life"
 ### Description: 
 - You will create a prototype of a website about your life and be functional 
 - (If you are not comfortable with putting out personal information create one about an influential person)
