@@ -22,5 +22,5 @@
 [Figma your Life Repository](https://github.com/MandoxaElemental/Figma-your-Life.git)
 
 
-Peer Reviewed By: 
+This has been Peer Reviewed By: 
 > Comments: 
